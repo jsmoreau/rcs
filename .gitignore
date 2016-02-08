@@ -16,3 +16,7 @@ bin/
 wheelhouse/
 
 MANIFEST
+/.project
+/.pydevproject
+/.settings/*
+/pip-selfcheck.json
